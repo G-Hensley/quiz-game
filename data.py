@@ -1,3 +1,4 @@
+# This is the data for the quiz questions
 question_data = [
     {"category": "Science: Computers", "type": "boolean", "difficulty": "easy",
      "question": "The programming language &quot;Python&quot; "
